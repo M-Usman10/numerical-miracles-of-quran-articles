@@ -1,0 +1,27 @@
+Surah An-Nahl, the 16th chapter of the Quran, is named after the honeybee, an organism that exemplifies divine precision, structure, and harmony. But beyond its name lies an intricate web of numerical patterns that point to a mathematical miracle centered on the number 16.
+
+This article delves into a series of astonishing correlations found within the structure of Surah An-Nahl. From verse numbers and word counts to letter frequencies and abjad [(read more about abjad value here)](https://numericalmiraclesofquran.com/article/67fcfa73e91a7c85a4ff757e) values, the repeated emergence of the number 16 is far too consistent to be mere coincidence. Each verse, each word, and even biological facts about bees themselves contribute to a tapestry of numerical symmetry that reinforces the idea of divine authorship.
+
+If you've ever wondered whether there's a deeper logic embedded in the sacred text, this exploration of Surah An-Nahl's mathematical design will leave you in awe. Prepare to uncover a layer of the Quran rarely seen but impossible to ignore once discovered.
+
+Let the numbers speak.
+
+
+
+<div style="text-align: center;">
+  <img src="https://numerical-mariacles-of-quran.s3.amazonaws.com/surah-nahl.png" width="500" height="500" />
+</div>
+
+
+- The word "nahl" (bees) appears only in Surah An-Nahl, specifically in verse 68. The number of letters from the beginning of this verse to the word "nahl" is 16.
+- Verse 68 consists of 54 letters, which include 16 unique letters.
+- Surah An-Nahl has 128 verses, and the last verse has 8 words. The relationship between verse 128 and its words is 128 ÷ 8 = 16
+- Verse 128 has 32 letters, which is 16 × 2.
+- The product of the verse number 128 and its number of letters, 32, is 128 × 32 = 4096, which equals 16 cubed (16 × 16 × 16).
+- The number of chromosomes in a male honeybee is also 16.
+- Verse 68, in which word An-Nahl appears, has 13 words, and multiplying the verse number by the number of words (68 × 13) equals 884. The word "nahl" is the 884th word in Surah An-Nahl.
+- There are 85 surahs in the Quran with a 16th verse. Surah Al-Fatiha does not have a 16th verse. Surah Al-Baqarah and Surah Al-Imran each have a 16th verse with 11 words, while Surah An-Nisa's 16th verse has 14 words, and so on. The total number of words in all the 16th verses in the Quran is 884.
+- These 85, 16th numbered verses conatain 3769 letters, and surpringly, that is the total letters from the start of surah An-Nahl to the end of verse 68.
+- Summing the verse numbers 16 in the Quran (16 x 85 = 1360), adding the total words (884), and including Surah 16 and its word count (1844), which becomes 1360 + 884 + 16 + 1844 = 4104, which is the abjad value [(read more about abjad value here)](https://numericalmiraclesofquran.com/article/67fcfa73e91a7c85a4ff757e) of verse 68 in Surah An-Nahl.
+- Surah An-Nahl has 8 verses numbered 16 or its multiples (16, 32, 48, 64, 80, 96, 112, 128), with a total of 119words. The abjad value of the word "nahl" is 119.
+- From the beginning of the Quran to verse 128 in Surah An-Nahl, there are 119 verses numbered 16 or its multiples.
